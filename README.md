@@ -52,7 +52,7 @@
 
 ## 📷 Screenshots
 
-> Add some photos or diagrams of your circuit and LCD display here.
+> To be added
 
 ---
 
