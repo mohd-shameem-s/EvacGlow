@@ -176,6 +176,12 @@ Path 2 -> Flame: 🔥YES | Smoke: 400 | Temp: 56.1°C | Status: FIRE | Door: �
 
 ---
 
+## 📸 Block Diagram
+
+![System Diagram](images/BlockDiagram.png)
+
+---
+
 ## 📚 License
 
 This project is open-source under the MIT License.
@@ -187,6 +193,18 @@ This project is open-source under the MIT License.
 - Adafruit Libraries  
 - Arduino Community  
 - Fire safety and smart evacuation research
+
+---
+
+## 📬 Developed By
+
+[Mohammed Shameem S](https://github.com/mohd-shameem-s) | [Prithikshan S](https://github.com/Prithikshan) | [Rahul V] | [Rohith AM](https://github.com/Rohithoffical)
+
+For queries or collaborations, feel free to reach out!
+
+---
+
+⭐️ If you find this project useful, please give it a star!
 
 ---
 
