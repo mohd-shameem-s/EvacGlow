@@ -1,4 +1,5 @@
-# 🔥 EVACGLOW: Smart Fire Detection and Evacuation System
+# 🔥 EVACGLOW: Real-Time Fire Detection and Safe Path Indicator
+
 
 EVACGLOW is an intelligent fire detection and evacuation guidance system designed to monitor environmental hazards such as flame, smoke, and temperature, and guide occupants toward safe evacuation paths using real-time sensors, visual indicators, and servo-controlled pathways.
 
