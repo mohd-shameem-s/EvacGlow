@@ -198,7 +198,7 @@ This project is open-source under the MIT License.
 
 ## 📬 Developed By
 
-[Mohammed Shameem S](https://github.com/mohd-shameem-s) | [Prithikshan S](https://github.com/Prithikshan) | [Rahul V] | [Rohith AM](https://github.com/Rohithoffical)
+[Mohammed Shameem S](https://github.com/mohd-shameem-s) | [Prithikshan S](https://github.com/Prithikshan) | [Rahul V](https://github.com/rahulkutty) | [Rohith AM](https://github.com/Rohithoffical)
 
 For queries or collaborations, feel free to reach out!
 
